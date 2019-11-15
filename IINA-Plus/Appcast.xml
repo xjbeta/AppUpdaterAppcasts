@@ -3,10 +3,33 @@
     <channel>
         <title>iina+</title>
         <item>
-            <title>0.4.8</title>
-            <pubDate>Mon, 23 Sep 2019 15:21:21 +0800</pubDate>
+            <title>0.4.9</title>
+            <pubDate>Fri, 15 Nov 2019 10:52:32 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/xjbeta/iina-plus/releases/download/0.4.8(19092315)/iina+.0.4.8.zip" sparkle:version="19092315" sparkle:shortVersionString="0.4.8" length="10276327" type="application/octet-stream" sparkle:edSignature="Myf4ukFQ0cgiVMVJ3fFb8qJkO/xXLXMtX6VQro/6PWP01YkSHGCd5LWjE+ObXYwvPNymvif7417z0MTnBeGoCg=="/>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+%200.4.9.dmg" sparkle:version="19111510" sparkle:shortVersionString="0.4.9" length="10491051" type="application/octet-stream" sparkle:edSignature="rMvAwc7mE5HWregahsrDyw9Y1UfSQ1ELWNVIjEs84F0lnRhGsZNHCp7x9Fz5+zHuhyYVxKL5YmniBKPDYHalAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+19111510-19092317.delta" sparkle:version="19111510" sparkle:shortVersionString="0.4.9" sparkle:deltaFrom="19092317" length="2685918" type="application/octet-stream" sparkle:edSignature="JuJQn2cEQiZke6zxh+ZOXs461VkT7HIvJ3wrP8W2DPYtcZ3tKz8aCkJteD6ieHHblc0lDTmzkLfThx60MeLiAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+19111510-19092315.delta" sparkle:version="19111510" sparkle:shortVersionString="0.4.9" sparkle:deltaFrom="19092315" length="2682315" type="application/octet-stream" sparkle:edSignature="Ud0eNjmJnNFHh/teUa2bKhOA1m34ZbM7tj/mlJQUQt8C49Wyc8mMUuYjbJlTR+mY5bzo1wuLOk2WQvfucVRxCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+19111510-19092315.delta" sparkle:version="19111510" sparkle:shortVersionString="0.4.9" sparkle:deltaFrom="19092315" length="2682315" type="application/octet-stream" sparkle:edSignature="Ud0eNjmJnNFHh/teUa2bKhOA1m34ZbM7tj/mlJQUQt8C49Wyc8mMUuYjbJlTR+mY5bzo1wuLOk2WQvfucVRxCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.4.9</title>
+            <pubDate>Fri, 15 Nov 2019 10:52:31 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+%200.4.9.zip" sparkle:version="19092317" sparkle:shortVersionString="0.4.9" length="10975219" type="application/octet-stream" sparkle:edSignature="dwXecf2+VWpJr6c97+C97VWe4no98WGFdtRMQSADie6TuLLVp/6wsu9IysKN4dLBp6tvc9E7QzYW+yVFQrl4Dg=="/>
+        </item>
+        <item>
+            <title>0.4.8</title>
+            <pubDate>Mon, 23 Sep 2019 15:48:30 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+%200.4.8.dmg" sparkle:version="19092315" sparkle:shortVersionString="0.4.8" length="9908743" type="application/octet-stream" sparkle:edSignature="I6B6tPajIOcOspwF7vVeKhZVCeUoxyBwc3ezyIDtvDQn4VlUoAkxGM3IoJB7UOvofQWQ2+9OYmksVSfbVUiCCw=="/>
+        </item>
+        <item>
+            <title>0.4.8</title>
+            <pubDate>Mon, 23 Sep 2019 15:48:17 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+%200.4.8.zip" sparkle:version="19092315" sparkle:shortVersionString="0.4.8" length="10276327" type="application/octet-stream" sparkle:edSignature="Myf4ukFQ0cgiVMVJ3fFb8qJkO/xXLXMtX6VQro/6PWP01YkSHGCd5LWjE+ObXYwvPNymvif7417z0MTnBeGoCg=="/>
         </item>
     </channel>
 </rss>
