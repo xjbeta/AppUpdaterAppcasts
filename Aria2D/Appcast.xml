@@ -18,5 +18,17 @@
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D%201.3.2.dmg" sparkle:version="458" sparkle:shortVersionString="1.3.2" length="8070696" type="application/octet-stream" sparkle:edSignature="pTHBgKD8pIfVMvUujJ0BFGvViYxDZmfMq+GIaaH/vhCdZVAa6yuj2BDS7Ep58V6lALy0hCO8KZiZCSI9MijxDA=="/>
         </item>
+        <item>
+            <title>1.3.4</title>
+            <pubDate>Wed, 01 Jan 2020 19:00:52 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D%201.3.4.dmg" sparkle:version="486" sparkle:shortVersionString="1.3.4" length="8274798" type="application/octet-stream" sparkle:edSignature="o6INJwckV83I4lCOxbUbyK3sdJGu6hxctrmKOWm2cCjdunY35U8wT1YYbH3zxJsb2jsTdzz3vS2dRdXORGVWDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D486-469.delta" sparkle:version="486" sparkle:shortVersionString="1.3.4" sparkle:deltaFrom="469" length="364893" type="application/octet-stream" sparkle:edSignature="kXHk5RAUct+kunK8CsuG2cJw5ayW6A9MMC+pQmB4cnb8qN46p8cNmJPu3mVk072sGm4Clg7ZtAGv42eErxCEAg=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D486-469.delta" sparkle:version="486" sparkle:shortVersionString="1.3.4" sparkle:deltaFrom="469" length="364893" type="application/octet-stream" sparkle:edSignature="kXHk5RAUct+kunK8CsuG2cJw5ayW6A9MMC+pQmB4cnb8qN46p8cNmJPu3mVk072sGm4Clg7ZtAGv42eErxCEAg=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D486-458.delta" sparkle:version="486" sparkle:shortVersionString="1.3.4" sparkle:deltaFrom="458" length="1510114" type="application/octet-stream" sparkle:edSignature="Q1OP1SK/AId9jrW4Jjw8M3bTe1WhrsIqzH8CQn1XNAyShl0lI3LEDsE8CGaIBcKPhzcYpeuGT3Y0N++5dcteCQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D486-458.delta" sparkle:version="486" sparkle:shortVersionString="1.3.4" sparkle:deltaFrom="458" length="1510114" type="application/octet-stream" sparkle:edSignature="Q1OP1SK/AId9jrW4Jjw8M3bTe1WhrsIqzH8CQn1XNAyShl0lI3LEDsE8CGaIBcKPhzcYpeuGT3Y0N++5dcteCQ=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
