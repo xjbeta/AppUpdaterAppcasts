@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>QuickTime ASS</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 19 Feb 2021 20:10:46 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/QuickTime%20ASS/QuickTime%20ASS%201.0.zip" sparkle:version="3" sparkle:shortVersionString="1.0" length="6277360" type="application/octet-stream" sparkle:edSignature="8XL/Kd5ed2t3W7Ao+zkzdea6GLC+rVEDG485GX39efJ/10/mncFnOzGSUDXumP4luF1YEz1FUkMNILAr1w+XDg=="/>
+        </item>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 19 Feb 2021 18:58:56 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/QuickTime%20ASS/QuickTime%20ASS%201.0.dmg" sparkle:version="3" sparkle:shortVersionString="1.0" length="6156153" type="application/octet-stream" sparkle:edSignature="As7lISASrHL7eeciOqoULtmNTb91FnLb8B8HZP0x+rBXQrUbnxpF+ZkbrGdQRHvsDHDmAca/34iCwtCc5oO9Bw=="/>
+        </item>
+    </channel>
+</rss>
