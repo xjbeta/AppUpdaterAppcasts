@@ -61,7 +61,7 @@
             <title>0.4.12</title>
             <pubDate>Sat, 18 Jan 2020 22:35:55 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+%200.4.12.dmg" sparkle:version="20011822" sparkle:shortVersionString="0.4.12" length="10661680" type="application/octet-stream" sparkle:edSignature="4wY0TuilErwQRdrFX8Xj9hEwoy37qoRoVqBL5Le1xRx7g3hd+LeZiuYUvP7F1qHN1zZrHs2FC8WVOCQU79+SDw=="/>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+%200.4.12.zip" sparkle:version="20011822" sparkle:shortVersionString="0.4.12" length="11130869" type="application/octet-stream" sparkle:edSignature="1cqdguhI2Cb8lbLLSHX+e4pXC863GjOxr49ms2TNVJZvAlftSexmqbhyyIajPp8wwcEAA5fgg/rWUIVRVlcfDw=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+20011822-19120520.delta" sparkle:version="20011822" sparkle:shortVersionString="0.4.12" sparkle:deltaFrom="19120520" length="1278925" type="application/octet-stream" sparkle:edSignature="lLrYxQgkpAY4LeqSNvcio579IFUdHw2Y1t2XH27nuzE8N6y7d8xuxdv2w5PvdZ56mr366iMB3tGAuNJv4oX0CQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+20011822-19120520.delta" sparkle:version="20011822" sparkle:shortVersionString="0.4.12" sparkle:deltaFrom="19120520" length="1278925" type="application/octet-stream" sparkle:edSignature="lLrYxQgkpAY4LeqSNvcio579IFUdHw2Y1t2XH27nuzE8N6y7d8xuxdv2w5PvdZ56mr366iMB3tGAuNJv4oX0CQ=="/>
@@ -75,7 +75,7 @@
             <title>0.4.13</title>
             <pubDate>Tue, 24 Mar 2020 15:52:54 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+%200.4.13.dmg" sparkle:version="20032415" sparkle:shortVersionString="0.4.13" length="10669011" type="application/octet-stream" sparkle:edSignature="bkWxcF06/ZfprmtsxtHbI92LurfHTq+sLda944YhLkRHMqEZL44L5b+9bATDuYfihr5NAh0P0MW3n6y9BhNsAQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+%200.4.13.zip" sparkle:version="20032415" sparkle:shortVersionString="0.4.13" length="11134639" type="application/octet-stream" sparkle:edSignature="669CTT3rQgBaBZW2SOBNHLOasJ8cqYbimX16SJQvIPHPWtKobpOskjLekKyba+fvWxKixwClZiy0CjH0PwUODw=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+20032415-20011822.delta" sparkle:version="20032415" sparkle:shortVersionString="0.4.13" sparkle:deltaFrom="20011822" length="1143138" type="application/octet-stream" sparkle:edSignature="a0fly+9yma/tfRzDRvZUEwAY4mwVjMxYN/4n4eHLTU9BBgMj1jwnVlbmZ5f9reeqWvrWEhiVGASKTLZLViRlAw=="/>
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+20032415-20011822.delta" sparkle:version="20032415" sparkle:shortVersionString="0.4.13" sparkle:deltaFrom="20011822" length="1143138" type="application/octet-stream" sparkle:edSignature="a0fly+9yma/tfRzDRvZUEwAY4mwVjMxYN/4n4eHLTU9BBgMj1jwnVlbmZ5f9reeqWvrWEhiVGASKTLZLViRlAw=="/>
@@ -275,6 +275,20 @@
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+21022211-20122721.delta" sparkle:version="21022211" sparkle:shortVersionString="0.5.11" sparkle:deltaFrom="20122721" length="2042117" type="application/octet-stream" sparkle:edSignature="ldlzHs6BA7OHKp3zXOrEY27UPTQAm4nF6AoyL7oF7cY+lTDVswUUAT3QdF8owq6InKQ/+oJuPwzUiJj0PdDdBA=="/>
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+21022211-20122519.delta" sparkle:version="21022211" sparkle:shortVersionString="0.5.11" sparkle:deltaFrom="20122519" length="3478641" type="application/octet-stream" sparkle:edSignature="o70a7TA/RoncUDkPNSvk/ng65+HwQd0oqzowhm3Zr8U+kqFip44hvXwHXuG60L3Sqq4IMvRnPgslIfqq0j4oBA=="/>
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+21022211-20122519.delta" sparkle:version="21022211" sparkle:shortVersionString="0.5.11" sparkle:deltaFrom="20122519" length="3478641" type="application/octet-stream" sparkle:edSignature="o70a7TA/RoncUDkPNSvk/ng65+HwQd0oqzowhm3Zr8U+kqFip44hvXwHXuG60L3Sqq4IMvRnPgslIfqq0j4oBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.5.12</title>
+            <pubDate>Tue, 23 Feb 2021 13:20:15 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+%200.5.12.zip" sparkle:version="21022313" sparkle:shortVersionString="0.5.12" length="13439282" type="application/octet-stream" sparkle:edSignature="BROqtbDTkzVMmfKy5uLF0aXiNXNKM/rTZqhGclGTX2y/BrxRv0dqp6PkPAjcWLY5TA/mEXAIIl89beN2P+jhDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+21022313-21022211.delta" sparkle:version="21022313" sparkle:shortVersionString="0.5.12" sparkle:deltaFrom="21022211" length="863683" type="application/octet-stream" sparkle:edSignature="mxuvz49CptsIJPryS43GFVmvX0r1Pd5naU8T76MZq2ia1WINY2u6Cpwy2Ei0rGOkmeho8fvKYyN6a5i+xEO5Aw=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+21022313-21022211.delta" sparkle:version="21022313" sparkle:shortVersionString="0.5.12" sparkle:deltaFrom="21022211" length="863683" type="application/octet-stream" sparkle:edSignature="mxuvz49CptsIJPryS43GFVmvX0r1Pd5naU8T76MZq2ia1WINY2u6Cpwy2Ei0rGOkmeho8fvKYyN6a5i+xEO5Aw=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+21022313-21011418.delta" sparkle:version="21022313" sparkle:shortVersionString="0.5.12" sparkle:deltaFrom="21011418" length="2040176" type="application/octet-stream" sparkle:edSignature="ht1Ha9GPx9Z/yXOstNJI/vVqkk1sNiRipwNfBbKrrpFF4eZ1ECjSWnEDQ3tRJawkMfMa5TI1v6CJPoAvy3kxBA=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+21022313-21011418.delta" sparkle:version="21022313" sparkle:shortVersionString="0.5.12" sparkle:deltaFrom="21011418" length="2040176" type="application/octet-stream" sparkle:edSignature="ht1Ha9GPx9Z/yXOstNJI/vVqkk1sNiRipwNfBbKrrpFF4eZ1ECjSWnEDQ3tRJawkMfMa5TI1v6CJPoAvy3kxBA=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+21022313-20122721.delta" sparkle:version="21022313" sparkle:shortVersionString="0.5.12" sparkle:deltaFrom="20122721" length="2040820" type="application/octet-stream" sparkle:edSignature="F4MZIQxKxZ5/7Bq7QlrKMDxETT7SJ5VRbnOx0HaDcVXCC7OnwUrC6tnbvryUNwUAB9zkZsCXYcmQWuweh3KQCA=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/iina+21022313-20122721.delta" sparkle:version="21022313" sparkle:shortVersionString="0.5.12" sparkle:deltaFrom="20122721" length="2040820" type="application/octet-stream" sparkle:edSignature="F4MZIQxKxZ5/7Bq7QlrKMDxETT7SJ5VRbnOx0HaDcVXCC7OnwUrC6tnbvryUNwUAB9zkZsCXYcmQWuweh3KQCA=="/>
             </sparkle:deltas>
         </item>
     </channel>
