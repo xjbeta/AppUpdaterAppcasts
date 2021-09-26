@@ -8,5 +8,15 @@
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/NeteaseMusic/Netease%20Music%200.1.dmg" sparkle:version="585" sparkle:shortVersionString="0.1" length="11488081" type="application/octet-stream" sparkle:edSignature="4u79+OD1XQ4Vt+U/00AION0TbZo2NqgIbddDDI8LyMu8eCRZOzFQXoLIWG/Pgm621Mhrfuc/cv+D64myAdkhBw=="/>
         </item>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Sun, 26 Sep 2021 19:17:27 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/NeteaseMusic/Netease%20Music%200.1.1.dmg" sparkle:version="591" sparkle:shortVersionString="0.1.1" length="11490339" type="application/octet-stream" sparkle:edSignature="LIuv0TIpmIfItYKUSyuJGJNW+l4jWsH75RBLcTBr7J3flKFnzN4TLfjvSTrjmn5U190YA0jfhWr6949skt5gBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/NeteaseMusic/Netease%20Music591-585.delta" sparkle:version="591" sparkle:shortVersionString="0.1.1" sparkle:deltaFrom="585" length="364961" type="application/octet-stream" sparkle:edSignature="YC7VXyT9F7LJrDaN60OMUUhzhfTypzsKsi/c7F9jxfsPISRzBrkGz5K48nd1Pj4nymIJScboOTKzzwNjEh8HAg=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/NeteaseMusic/Netease%20Music591-585.delta" sparkle:version="591" sparkle:shortVersionString="0.1.1" sparkle:deltaFrom="585" length="364961" type="application/octet-stream" sparkle:edSignature="YC7VXyT9F7LJrDaN60OMUUhzhfTypzsKsi/c7F9jxfsPISRzBrkGz5K48nd1Pj4nymIJScboOTKzzwNjEh8HAg=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
