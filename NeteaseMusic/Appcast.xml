@@ -2,5 +2,11 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>NeteaseMusic</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Sun, 26 Sep 2021 18:50:37 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/NeteaseMusic/Netease%20Music%200.1.dmg" sparkle:version="585" sparkle:shortVersionString="0.1" length="11488081" type="application/octet-stream" sparkle:edSignature="4u79+OD1XQ4Vt+U/00AION0TbZo2NqgIbddDDI8LyMu8eCRZOzFQXoLIWG/Pgm621Mhrfuc/cv+D64myAdkhBw=="/>
+        </item>
     </channel>
 </rss>
