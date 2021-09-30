@@ -18,5 +18,17 @@
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/NeteaseMusic/Netease%20Music591-585.delta" sparkle:version="591" sparkle:shortVersionString="0.1.1" sparkle:deltaFrom="585" length="364961" type="application/octet-stream" sparkle:edSignature="YC7VXyT9F7LJrDaN60OMUUhzhfTypzsKsi/c7F9jxfsPISRzBrkGz5K48nd1Pj4nymIJScboOTKzzwNjEh8HAg=="/>
             </sparkle:deltas>
         </item>
+        <item>
+            <title>0.1.2</title>
+            <pubDate>Thu, 30 Sep 2021 22:56:35 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/NeteaseMusic/Netease%20Music%200.1.2.dmg" sparkle:version="607" sparkle:shortVersionString="0.1.2" length="11064986" type="application/octet-stream" sparkle:edSignature="bG6iTAPP3ZFshhvuyWjcwRdbLAzJpr1dt4tEX7JvzGbnF6GoTZeI7whG2GIRc5I4XTi9xlKbkGF3C3Ec7PN0Bw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/NeteaseMusic/Netease%20Music607-591.delta" sparkle:version="607" sparkle:shortVersionString="0.1.2" sparkle:deltaFrom="591" length="855968" type="application/octet-stream" sparkle:edSignature="ZPVhXtW7Fx5ryuNGNJFfdxh0lDfv1OwiRgZ7gLCNNf83i04aAmojyo/VL1SLRiXaLNvV7FqPwW4nYLKF4lfDCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/NeteaseMusic/Netease%20Music607-591.delta" sparkle:version="607" sparkle:shortVersionString="0.1.2" sparkle:deltaFrom="591" length="855968" type="application/octet-stream" sparkle:edSignature="ZPVhXtW7Fx5ryuNGNJFfdxh0lDfv1OwiRgZ7gLCNNf83i04aAmojyo/VL1SLRiXaLNvV7FqPwW4nYLKF4lfDCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/NeteaseMusic/Netease%20Music607-585.delta" sparkle:version="607" sparkle:shortVersionString="0.1.2" sparkle:deltaFrom="585" length="865321" type="application/octet-stream" sparkle:edSignature="pL8fYygM0m6x3tfC5mOqsLOe0RU2DgZxaL1NS5200ns3xpC+qO2Yg8Hidfap39sZJbMNrp7C3QMnX9mhysywAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/NeteaseMusic/Netease%20Music607-585.delta" sparkle:version="607" sparkle:shortVersionString="0.1.2" sparkle:deltaFrom="585" length="865321" type="application/octet-stream" sparkle:edSignature="pL8fYygM0m6x3tfC5mOqsLOe0RU2DgZxaL1NS5200ns3xpC+qO2Yg8Hidfap39sZJbMNrp7C3QMnX9mhysywAA=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
