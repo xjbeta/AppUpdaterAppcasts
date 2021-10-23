@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>IINA</title>
+        <item>
+            <title>1.2.0-Danmaku</title>
+            <pubDate>Sat, 23 Oct 2021 13:13:20 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Danmaku/IINA%201.2.0-Danmaku%20(207).zip" sparkle:version="207" sparkle:shortVersionString="1.2.0-Danmaku" length="50494176" type="application/octet-stream" sparkle:edSignature="71aPW/7Hxn5RneC5Irt6zZwSpaVPL4l+guOGQv8Nju1/uU4iI4b+TiQCRvca4OMwmuvGygzz4XKJQxhVcDv/Dw=="/>
+        </item>
+        <item>
+            <title>1.2.0-Danmaku</title>
+            <pubDate>Sat, 23 Oct 2021 13:13:29 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Danmaku/IINA%201.2.0-Danmaku%20(207).dmg" sparkle:version="207" sparkle:shortVersionString="1.2.0-Danmaku" length="47826493" type="application/octet-stream" sparkle:edSignature="doZ0bDTS8qHPrTeiwZvJWUswtii4VPCi8uxDDbeozKOfoeF/0ajwwg6qm3BIr5KgAyYVKiC1vlH0sm3YTpwxBA=="/>
+        </item>
+    </channel>
+</rss>
