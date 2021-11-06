@@ -4,15 +4,19 @@
         <title>IINA</title>
         <item>
             <title>1.2.0-Danmaku</title>
-            <pubDate>Sat, 23 Oct 2021 13:13:20 +0800</pubDate>
-            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Danmaku/IINA%201.2.0-Danmaku%20(207).zip" sparkle:version="207" sparkle:shortVersionString="1.2.0-Danmaku" length="50494176" type="application/octet-stream" sparkle:edSignature="71aPW/7Hxn5RneC5Irt6zZwSpaVPL4l+guOGQv8Nju1/uU4iI4b+TiQCRvca4OMwmuvGygzz4XKJQxhVcDv/Dw=="/>
+            <pubDate>Sat, 06 Nov 2021 22:19:45 +0800</pubDate>
+            <sparkle:version>219</sparkle:version>
+            <sparkle:shortVersionString>1.2.0-Danmaku</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Danmaku/IINA%201.2.0-Danmaku%20(219).zip" length="52016083" type="application/octet-stream" sparkle:edSignature="etTlwwn3odR9V5G4J1vks5pqi1+5x66pOlnOput+yKCZNOC2q32uuow235FI1I1sglWmtao+nqoJbUUeiLYCAQ=="/>
         </item>
         <item>
             <title>1.2.0-Danmaku</title>
-            <pubDate>Sat, 23 Oct 2021 13:13:29 +0800</pubDate>
-            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Danmaku/IINA%201.2.0-Danmaku%20(207).dmg" sparkle:version="207" sparkle:shortVersionString="1.2.0-Danmaku" length="47826493" type="application/octet-stream" sparkle:edSignature="doZ0bDTS8qHPrTeiwZvJWUswtii4VPCi8uxDDbeozKOfoeF/0ajwwg6qm3BIr5KgAyYVKiC1vlH0sm3YTpwxBA=="/>
+            <pubDate>Sat, 06 Nov 2021 22:19:55 +0800</pubDate>
+            <sparkle:version>219</sparkle:version>
+            <sparkle:shortVersionString>1.2.0-Danmaku</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Danmaku/IINA%201.2.0-Danmaku%20(219).dmg" length="49314736" type="application/octet-stream" sparkle:edSignature="fbABu2ez/SjNcM/HD52626ogXUZuYID6kBQ77nqoM+TQ8J02ze5gpbbxMAqoGwGDMtp8s+8AkHvFWsa3ld3WCQ=="/>
         </item>
     </channel>
 </rss>
