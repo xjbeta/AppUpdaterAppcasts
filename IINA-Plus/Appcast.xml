@@ -3,6 +3,20 @@
     <channel>
         <title>iina+</title>
         <item>
+            <title>0.5.25</title>
+            <pubDate>Sun, 12 Dec 2021 17:27:44 +0800</pubDate>
+            <sparkle:version>21121217</sparkle:version>
+            <sparkle:shortVersionString>0.5.25</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+%200.5.25.dmg" length="15431229" type="application/octet-stream" sparkle:edSignature="0AbkxCevi+EQXC82krxdYESGpYIb1wCp0FOzI9f7pbYYCxw6953dpgv/3HBfEehEy2RWAAYSDkbwmxQRsZIoBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+21121217-21121110.delta" sparkle:deltaFrom="21121110" length="560151" type="application/octet-stream" sparkle:edSignature="TLqwDekEBnjjC3Zc1X15a0rqpACxO61MNwZyOs3tb6JYvQAVVLXd5IqvD9ghx4uSKEBCLHUEMHhnO6MyU2p7Cw=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+21121217-21111822.delta" sparkle:deltaFrom="21111822" length="1273076" type="application/octet-stream" sparkle:edSignature="Y+2CN8JpDqKodjwvKRrcq294XDEXs27SpVGg0IXvJmaCJVo8puCpYcdTrvzdSph5vP8ddmd1LZvg0vB1xtlMDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+21121217-21111822.delta" sparkle:deltaFrom="21111822" length="1273076" type="application/octet-stream" sparkle:edSignature="Y+2CN8JpDqKodjwvKRrcq294XDEXs27SpVGg0IXvJmaCJVo8puCpYcdTrvzdSph5vP8ddmd1LZvg0vB1xtlMDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+21121217-21102812.delta" sparkle:deltaFrom="21102812" length="2210424" type="application/octet-stream" sparkle:edSignature="x2nl5poZaiFq+XdmGd9wmEVMFc/rqxRJcAg9Jh/EenCXzGJiZ/zUeScbEJsFaE8aAOUnWMBUCdwfQA9aEtLCBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.5.24</title>
             <pubDate>Sat, 11 Dec 2021 11:05:51 +0800</pubDate>
             <sparkle:version>21121110</sparkle:version>
