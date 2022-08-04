@@ -6,35 +6,41 @@
             <title>1.3.3</title>
             <pubDate>Sat, 23 Nov 2019 12:09:54 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D%201.3.3.dmg" sparkle:version="469" sparkle:shortVersionString="1.3.3" length="8234903" type="application/octet-stream" sparkle:edSignature="ZhjN096CSGUvgLJC9jXAO8kjQX4dKMgpKozgrN+dEFCAnRtSqiqdjdf/9ULPN+UV0HIKPm5oHgUmpiJIeexiDA=="/>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D%201.3.3.dmg" length="8234903" type="application/octet-stream" sparkle:edSignature="ZhjN096CSGUvgLJC9jXAO8kjQX4dKMgpKozgrN+dEFCAnRtSqiqdjdf/9ULPN+UV0HIKPm5oHgUmpiJIeexiDA=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D469-458.delta" sparkle:version="469" sparkle:shortVersionString="1.3.3" sparkle:deltaFrom="458" length="1404125" type="application/octet-stream" sparkle:edSignature="XITKJaPsyXbTFAaWOfrHGdf6a+GFE405XERdYdP8JdLV/5mKZH/sKGcQ4/rzFvx7P5KklxErTBxfeOCzLtgIBQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D469-458.delta" sparkle:version="469" sparkle:shortVersionString="1.3.3" sparkle:deltaFrom="458" length="1404125" type="application/octet-stream" sparkle:edSignature="XITKJaPsyXbTFAaWOfrHGdf6a+GFE405XERdYdP8JdLV/5mKZH/sKGcQ4/rzFvx7P5KklxErTBxfeOCzLtgIBQ=="/>
             </sparkle:deltas>
+            <sparkle:version>469</sparkle:version>
+            <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
         </item>
         <item>
             <title>1.3.2</title>
             <pubDate>Sun, 22 Sep 2019 19:48:31 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D%201.3.2.dmg" sparkle:version="458" sparkle:shortVersionString="1.3.2" length="8070696" type="application/octet-stream" sparkle:edSignature="pTHBgKD8pIfVMvUujJ0BFGvViYxDZmfMq+GIaaH/vhCdZVAa6yuj2BDS7Ep58V6lALy0hCO8KZiZCSI9MijxDA=="/>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D%201.3.2.dmg" length="8070696" type="application/octet-stream" sparkle:edSignature="pTHBgKD8pIfVMvUujJ0BFGvViYxDZmfMq+GIaaH/vhCdZVAa6yuj2BDS7Ep58V6lALy0hCO8KZiZCSI9MijxDA=="/>
+            <sparkle:version>458</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
         </item>
         <item>
             <title>1.3.4</title>
             <pubDate>Wed, 01 Jan 2020 19:00:52 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D%201.3.4.dmg" sparkle:version="486" sparkle:shortVersionString="1.3.4" length="8274798" type="application/octet-stream" sparkle:edSignature="o6INJwckV83I4lCOxbUbyK3sdJGu6hxctrmKOWm2cCjdunY35U8wT1YYbH3zxJsb2jsTdzz3vS2dRdXORGVWDA=="/>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D%201.3.4.dmg" length="8274798" type="application/octet-stream" sparkle:edSignature="o6INJwckV83I4lCOxbUbyK3sdJGu6hxctrmKOWm2cCjdunY35U8wT1YYbH3zxJsb2jsTdzz3vS2dRdXORGVWDA=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D486-469.delta" sparkle:version="486" sparkle:shortVersionString="1.3.4" sparkle:deltaFrom="469" length="364893" type="application/octet-stream" sparkle:edSignature="kXHk5RAUct+kunK8CsuG2cJw5ayW6A9MMC+pQmB4cnb8qN46p8cNmJPu3mVk072sGm4Clg7ZtAGv42eErxCEAg=="/>
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D486-469.delta" sparkle:version="486" sparkle:shortVersionString="1.3.4" sparkle:deltaFrom="469" length="364893" type="application/octet-stream" sparkle:edSignature="kXHk5RAUct+kunK8CsuG2cJw5ayW6A9MMC+pQmB4cnb8qN46p8cNmJPu3mVk072sGm4Clg7ZtAGv42eErxCEAg=="/>
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D486-458.delta" sparkle:version="486" sparkle:shortVersionString="1.3.4" sparkle:deltaFrom="458" length="1510114" type="application/octet-stream" sparkle:edSignature="Q1OP1SK/AId9jrW4Jjw8M3bTe1WhrsIqzH8CQn1XNAyShl0lI3LEDsE8CGaIBcKPhzcYpeuGT3Y0N++5dcteCQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D486-458.delta" sparkle:version="486" sparkle:shortVersionString="1.3.4" sparkle:deltaFrom="458" length="1510114" type="application/octet-stream" sparkle:edSignature="Q1OP1SK/AId9jrW4Jjw8M3bTe1WhrsIqzH8CQn1XNAyShl0lI3LEDsE8CGaIBcKPhzcYpeuGT3Y0N++5dcteCQ=="/>
             </sparkle:deltas>
+            <sparkle:version>486</sparkle:version>
+            <sparkle:shortVersionString>1.3.4</sparkle:shortVersionString>
         </item>
         <item>
             <title>1.3.5</title>
             <pubDate>Fri, 20 Mar 2020 20:46:29 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D%201.3.5.zip" sparkle:version="501" sparkle:shortVersionString="1.3.5" length="8902243" type="application/octet-stream" sparkle:edSignature="wcf68qlK7D7iqu1dsMhgODCTCoCfuSBOYWymZHLgqOTmf9CDaHTEiYeLnAL/ODt9SCvyx5H2kJlzZWc1X/nQDA=="/>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D%201.3.5.dmg" length="8576350" type="application/octet-stream" sparkle:edSignature="B7dtzFPWvdiSgj9tivFWTlAyQGs/IEo/pXanIQ+KaAQUo6jrrxytoBiH9Jz/eyY0/xjl3SxubsL1kMbdQcMSDg=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D501-486.delta" sparkle:version="501" sparkle:shortVersionString="1.3.5" sparkle:deltaFrom="486" length="822413" type="application/octet-stream" sparkle:edSignature="7Dvx28l6Yzwy7lFowpnI4C1Yl2flIXJbq6l9ndADlO5TAvJ4YAfhMyoOMOFqraZBAo5RQjZDohIEzA0c/ljsBg=="/>
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D501-486.delta" sparkle:version="501" sparkle:shortVersionString="1.3.5" sparkle:deltaFrom="486" length="822413" type="application/octet-stream" sparkle:edSignature="7Dvx28l6Yzwy7lFowpnI4C1Yl2flIXJbq6l9ndADlO5TAvJ4YAfhMyoOMOFqraZBAo5RQjZDohIEzA0c/ljsBg=="/>
@@ -43,20 +49,22 @@
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D501-458.delta" sparkle:version="501" sparkle:shortVersionString="1.3.5" sparkle:deltaFrom="458" length="1902282" type="application/octet-stream" sparkle:edSignature="zwyZE7WkSuve6c7lAPN7te/aoSk0yXcFd7PHRwjZJ2eDsXYulEIVpqe521Ry18xkZCEMgvebyP4AJQAvJ1rCBQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D501-458.delta" sparkle:version="501" sparkle:shortVersionString="1.3.5" sparkle:deltaFrom="458" length="1902282" type="application/octet-stream" sparkle:edSignature="zwyZE7WkSuve6c7lAPN7te/aoSk0yXcFd7PHRwjZJ2eDsXYulEIVpqe521Ry18xkZCEMgvebyP4AJQAvJ1rCBQ=="/>
             </sparkle:deltas>
+            <sparkle:version>501</sparkle:version>
+            <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
         </item>
         <item>
             <title>1.3.6</title>
             <pubDate>Sun, 06 Dec 2020 20:26:40 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D%201.3.6.dmg" sparkle:version="509" sparkle:shortVersionString="1.3.6" length="9688711" type="application/octet-stream" sparkle:edSignature="5+CwlUZbRNPbrC9E0gWsDySo2Rk+0kC/sJWREzcEMk/gJ/q6WuehSEp5FEX7cxLejPlqffC5APH2dwZ9I31wCg=="/>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D%201.3.6.dmg" length="9688711" type="application/octet-stream" sparkle:edSignature="5+CwlUZbRNPbrC9E0gWsDySo2Rk+0kC/sJWREzcEMk/gJ/q6WuehSEp5FEX7cxLejPlqffC5APH2dwZ9I31wCg=="/>
             <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D509-501.delta" sparkle:version="509" sparkle:shortVersionString="1.3.6" sparkle:deltaFrom="501" length="3757834" type="application/octet-stream" sparkle:edSignature="IZgXvz1ir05RNQgSU68tz16/c3FduThWpkbkt4LdNX7mrHVRqLQ1ESP8o13H+oi1S5D4+WixIcXL0vnG92DNAA=="/>
-                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D509-486.delta" sparkle:version="509" sparkle:shortVersionString="1.3.6" sparkle:deltaFrom="486" length="4063671" type="application/octet-stream" sparkle:edSignature="Gpk+vOTBMUMWlX/D5Tkkw4uUkLWzEA/FUUEsHSzdb+FVEb9WELszBkOVx9d5t+/KGJmLLbXo6FAwrw0Na3YBAw=="/>
-                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D509-486.delta" sparkle:version="509" sparkle:shortVersionString="1.3.6" sparkle:deltaFrom="486" length="4063671" type="application/octet-stream" sparkle:edSignature="Gpk+vOTBMUMWlX/D5Tkkw4uUkLWzEA/FUUEsHSzdb+FVEb9WELszBkOVx9d5t+/KGJmLLbXo6FAwrw0Na3YBAw=="/>
-                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D509-469.delta" sparkle:version="509" sparkle:shortVersionString="1.3.6" sparkle:deltaFrom="469" length="4074700" type="application/octet-stream" sparkle:edSignature="epeV3BsTfroRO8zTsQksAaJvou+lz67HpES1p94CiC5NrEnpupMbbdnJCWuCF1FbI7PFea97rj9T3gJhAJ06BQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D509-469.delta" sparkle:version="509" sparkle:shortVersionString="1.3.6" sparkle:deltaFrom="469" length="4074700" type="application/octet-stream" sparkle:edSignature="epeV3BsTfroRO8zTsQksAaJvou+lz67HpES1p94CiC5NrEnpupMbbdnJCWuCF1FbI7PFea97rj9T3gJhAJ06BQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D509-458.delta" sparkle:version="509" sparkle:shortVersionString="1.3.6" sparkle:deltaFrom="458" length="4341651" type="application/octet-stream" sparkle:edSignature="m9QNHpq8y5sR/HfRJDiQE6FLJy+MhhMaEEt3r+uHnL2U2pGUg5Fh+UAA65EaG3vdm2Xs9FPuOEdyyIg59sEQBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D509-458.delta" sparkle:deltaFrom="458" length="4341651" type="application/octet-stream" sparkle:edSignature="m9QNHpq8y5sR/HfRJDiQE6FLJy+MhhMaEEt3r+uHnL2U2pGUg5Fh+UAA65EaG3vdm2Xs9FPuOEdyyIg59sEQBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D509-458.delta" sparkle:deltaFrom="458" length="4341651" type="application/octet-stream" sparkle:edSignature="m9QNHpq8y5sR/HfRJDiQE6FLJy+MhhMaEEt3r+uHnL2U2pGUg5Fh+UAA65EaG3vdm2Xs9FPuOEdyyIg59sEQBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D509-417.delta" sparkle:deltaFrom="417" length="2629586" type="application/octet-stream" sparkle:edSignature="qbXl4AMirQ4/uvilxqIhbuMEqnoKvl+O4fal1iWtDurUMdubScw/36SnfhuL7OZ+JiIRETKo3bsCnFED3CcUBA=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D509-417.delta" sparkle:deltaFrom="417" length="2629586" type="application/octet-stream" sparkle:edSignature="qbXl4AMirQ4/uvilxqIhbuMEqnoKvl+O4fal1iWtDurUMdubScw/36SnfhuL7OZ+JiIRETKo3bsCnFED3CcUBA=="/>
             </sparkle:deltas>
+            <sparkle:version>509</sparkle:version>
+            <sparkle:shortVersionString>1.3.6</sparkle:shortVersionString>
         </item>
     </channel>
 </rss>
