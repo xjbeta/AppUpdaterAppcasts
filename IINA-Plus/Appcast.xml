@@ -3,6 +3,21 @@
     <channel>
         <title>iina+</title>
         <item>
+            <title>0.7.29</title>
+            <pubDate>Wed, 05 Jun 2024 11:10:46 +0000</pubDate>
+            <sparkle:version>24060511</sparkle:version>
+            <sparkle:shortVersionString>0.7.29</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+%200.7.29.zip" length="13233461" type="application/octet-stream" sparkle:edSignature="g8Nlrv/gTqvDFtLvBKGm2lAy+p6vYTvMPZpEopZz9dyXCNqj+0ppEa5WZv3aUoMxKG8W4PLglk2o01Wf3ychCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+24060511-24053010.delta" sparkle:deltaFrom="24053010" length="715630" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="nHKuNRRR8HDEs+W9CziPA7+QFrzG9O6UlgsYKy4wLZ5EleTZs6ek85sN1LtXtMGejdDXC1/9n7Vx1PfDBZuJCQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+24060511-24052606.delta" sparkle:deltaFrom="24052606" length="819166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="3D/ekpRyt7zI8UidkxVLdEBtlzIghXmtb/dSdE4PqNWFMdJCG++hAmTsuZPmLQ+BeJszqjjWjw+yFLu2DF7mCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+24060511-24052403.delta" sparkle:deltaFrom="24052403" length="835646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ubDowLMyTML46tuoCQ91lkrdaCrqpAqkdt+vXfiSousjhm2k3K37AGDDDZPzwBVMBuKvUuqPzFxRWacmVtc+Ag=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+24060511-24051915.delta" sparkle:deltaFrom="24051915" length="835006" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="SVTAwYMZIk09vaISGAtcXGwDghHXXqlN6b6d0DIuP8s86TjCrESCjgPExtIphpTq2byWHhq7Pqk8moe5cOkLDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+24060511-24051914.delta" sparkle:deltaFrom="24051914" length="853298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="dzipQ/j6X5WVYiYaqwAvzDzkYqz2Q8/lHVkTt9MyGg9PpCF+DD+iDtwXMMykB4FRfLjpeYLepUu2tMLIB1L4Bw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.7.28</title>
             <pubDate>Thu, 30 May 2024 10:29:43 +0000</pubDate>
             <sparkle:version>24053010</sparkle:version>
@@ -30,21 +45,6 @@
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+24052606-24051914.delta" sparkle:deltaFrom="24051914" length="542818" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="6IB7vUnmjX8+j0NzscFshMJ1/t/ld+fxnQj93hLnL7xq4FLPIWtxmtGYNOGiHETCVCVSqz+dCaGEk6Cn0mf6Bg=="/>
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+24052606-24041208.delta" sparkle:deltaFrom="24041208" length="847750" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864704" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="cx/awbAhTHH4f11eP/vRW6ZD1zE8vBaGT3M7bBoFwgxFrZquNcDtT6fGjb5fDlbC0xIM9IbVwi7wwXQnVhUtBw=="/>
                 <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+24052606-24022516.delta" sparkle:deltaFrom="24022516" length="2998742" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864640" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="JbwIKXeCUJXm1Q9R00LykbmJLH/TvSAPdcYBTkH+Tnti/PuALKC8eNdtkf3gojxhIvnzmRfGmx/gbTO5mDytBA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.7.26</title>
-            <pubDate>Fri, 24 May 2024 03:52:12 +0000</pubDate>
-            <sparkle:version>24052403</sparkle:version>
-            <sparkle:shortVersionString>0.7.26</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+%200.7.26.zip" length="13120967" type="application/octet-stream" sparkle:edSignature="PwcCK7PMiJcVVHjI24vM7brktt6e1mi9nxlh7k316RFAj/yGcNWNXZvCpf8t3Kfo4oGGn4aj5cCeRI2wfo5bAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+24052403-24051915.delta" sparkle:deltaFrom="24051915" length="321030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="As77dNQRNOKgvn+Es/KlYttThrG9dA4hxomomZp8ESjjq2wAJ+t80fdnMQItDEaw7FHm3rIZMCBP7N5GBP8QAA=="/>
-                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+24052403-24051914.delta" sparkle:deltaFrom="24051914" length="524262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864560" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="VCIXFfvGyycsGM6BcX+bVv9gz/G6woo95djJP0OmevjCP9X2Y6JtkTd1DvTXkujjL2SdhsDjnCjSJYQjjltNDQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+24052403-24041208.delta" sparkle:deltaFrom="24041208" length="832706" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864704" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="fJr4sVy4Zg81yJhntYxmrPTve7hFPQ4oRVvGJmvacep1pp1UqAosLYEmT3kisWKleuzWPSWGyvZoHxGOu2epCw=="/>
-                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+24052403-24022516.delta" sparkle:deltaFrom="24022516" length="2989662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864640" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="asYH0EXpADx4ntIt1k5sdZBnnbmQHfJcBvUppOFSGoM3wkVA/DOs3qukRwlvQ5a9ouAyO8DYsVEsB3VCcHwzCg=="/>
-                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+24052403-24022506.delta" sparkle:deltaFrom="24022506" length="2987414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864640" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="XmXEBpSa77pYQ3w2MqrhNfM7hB1K+1O848fadm6uSfcVxdIBeGEk14aoA6nwtGCBuRmQqSvPFkpHjeBWcsR4AQ=="/>
             </sparkle:deltas>
         </item>
         <item>
