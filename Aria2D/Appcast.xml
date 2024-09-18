@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Aria2D</title>
+        <item>
+            <title>1.3.9</title>
+            <pubDate>Wed, 20 Dec 2023 13:48:05 +0800</pubDate>
+            <sparkle:version>433</sparkle:version>
+            <sparkle:shortVersionString>1.3.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D%201.3.9.zip" length="8655013" type="application/octet-stream" sparkle:edSignature="D/OJWNRb41IV8lCLBxRkwn4AUAgPzKuY1RQx6IxwICR85pb45BgJb7qt3v/4LjvM4udbj3CVeDxE7WGrDdNzDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D433-425.delta" sparkle:deltaFrom="425" length="1198606" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="qKVST0H/u2m+CrT4PVbHbpMEFfSxk/Mt9Arpa5JlTO/m1t+IIxHXQRQ3ypKZZwhnTREJIy6dgxhJ7fv4FjLwCw=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D433-417.delta" sparkle:deltaFrom="417" length="1765338" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1381360" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="T0jWLVDrChdiUH9EHDRvpPv0BEPTluBCj70R4DYzkT+Y0UjCvyhXuFV96KvMRoXiaIuEigHurJkm+Zv8SFmbBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.3.8</title>
+            <pubDate>Tue, 15 Aug 2023 20:17:42 +0800</pubDate>
+            <sparkle:version>425</sparkle:version>
+            <sparkle:shortVersionString>1.3.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D%201.3.8.zip" length="8560234" type="application/octet-stream" sparkle:edSignature="v392Mj8kpA08LvDHzNCxMNX6WCxdPPsph0Qj7O8VPOFgtJCWQbpw/9jvmCoIMh4Bzj1Yug9UrIbWj2iCSW0iDA=="/>
+        </item>
+        <item>
+            <title>1.3.7</title>
+            <pubDate>Tue, 15 Aug 2023 20:27:07 +0800</pubDate>
+            <sparkle:version>417</sparkle:version>
+            <sparkle:shortVersionString>1.3.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D%201.3.7.zip" length="9501777" type="application/octet-stream" sparkle:edSignature="nBRzaCtCOJBA/ifmYkh3ZGml0Wg339+c3Z/wccr1W41UcyxUFS+1dcnS6nQrKw21q6XExUdKVdNyKw/oSYBKAw=="/>
+        </item>
+    </channel>
+</rss>

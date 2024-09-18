@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Netease Music</title>
+        <item>
+            <title>0.1.4</title>
+            <pubDate>Mon, 25 Dec 2023 18:39:32 +0800</pubDate>
+            <sparkle:version>593</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/NeteaseMusic/Netease%20Music%200.1.4.zip" length="8968665" type="application/octet-stream" sparkle:edSignature="NKCyPGiINyjqY55byUSd3GTaGwOo3EO6trok1gynaj4uPQL1H/zuW+TQsB4X1FhQd65O5G9r9nTbFkjjoh9IDg=="/>
+        </item>
+    </channel>
+</rss>
