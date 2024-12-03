@@ -3,6 +3,17 @@
     <channel>
         <title>Netease Music</title>
         <item>
+            <title>0.1.5</title>
+            <pubDate>Tue, 03 Dec 2024 10:57:09 +0000</pubDate>
+            <sparkle:version>604</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/NeteaseMusic/Netease%20Music%200.1.5.zip" length="8903496" type="application/octet-stream" sparkle:edSignature="k27njRDTBmaTNcotjuwlifeZHtaFLWwuW02j8JtH8hsAxtv0g8D9sLxRUx75AEq5PFtrgtc8CjxoTgoxr0GECw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/NeteaseMusic/Netease%20Music604-593.delta" sparkle:deltaFrom="593" length="1649430" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864640" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="HldHHHXClbrJHTsjOFSH5H+LWYhGpfq6a8ozYPKGLDcDLyltJc63OgwPwteycMh2CjEQeW9vmFK/LIn0GoYzBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.4</title>
             <pubDate>Mon, 25 Dec 2023 18:39:32 +0800</pubDate>
             <sparkle:version>593</sparkle:version>
