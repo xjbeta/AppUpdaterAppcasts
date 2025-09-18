@@ -3,6 +3,19 @@
     <channel>
         <title>Aria2D</title>
         <item>
+            <title>1.4.0</title>
+            <pubDate>Thu, 18 Sep 2025 12:28:39 +0800</pubDate>
+            <sparkle:version>460</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D%201.4.0.zip" length="8003011" type="application/octet-stream" sparkle:edSignature="EfITsjssoBMg4eQO/OuygawO5aCDzHPRSRySVMrPfvXDphAZMkIN1SFtryq7oFDPbDkj6cBgBJkRcE7KMthNCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D460-433.delta" sparkle:deltaFrom="433" length="3151482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="bZ+LQkPkv6Pilf28LfBEWqA0uw6E/t7VW7ztkCf7FLzfU3muR0+LUtxU8YFMaI/XQT/b7NNAiFOLPtB33G9jAg=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D460-425.delta" sparkle:deltaFrom="425" length="3463558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="cUqO/AiXgaerfDO5tlksG++pfC/cpCDhExVkAuAINF2EA5BA7BCXX8+SaXiJ6ITil7QoDTBrmccbPfLHb3nYBQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D460-417.delta" sparkle:deltaFrom="417" length="3950426" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1381360" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="54BNHQkgJ13Icou6AlliXLhSsbBfmus01taxJwewiMybh7XVcVb0VyW2x6Z5FS5la1BjJxor8Ku5HS1UTt1SCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3.9</title>
             <pubDate>Wed, 20 Dec 2023 13:48:05 +0800</pubDate>
             <sparkle:version>433</sparkle:version>
