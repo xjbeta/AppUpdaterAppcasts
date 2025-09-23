@@ -3,6 +3,21 @@
     <channel>
         <title>IINA+</title>
         <item>
+            <title>0.8.16</title>
+            <pubDate>Tue, 23 Sep 2025 13:46:17 +0000</pubDate>
+            <sparkle:version>1758635134</sparkle:version>
+            <sparkle:shortVersionString>0.8.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+%200.8.16.zip" length="11816143" type="application/octet-stream" sparkle:edSignature="UterAetBu97QGDWHVGRHPitDVJ4xZ4ORyqvHFT9vcbSV/xc9WI+rSc/a4bGB83I3uHTpKthnnzrlto7iPG8UCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+1758635134-1758631008.delta" sparkle:deltaFrom="1758631008" length="573926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Nbh5QGNTjqioyeRsQq6pe2EYoGtzwoDv4YdIUWsTa0zm9XuovCkSviaNiotg3AunHOLEJilHZWW8dOSUBTWnBw=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+1758635134-25092311.delta" sparkle:deltaFrom="25092311" length="914422" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Re/lSAljCpdxCz1gXy9RnQTjiBEUjJPXO9xUxpWchuLKEi1IUIC9hcMqKJJt8kEGVj+N72Ce5mgEbeSi7t2VDg=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+1758635134-25091907.delta" sparkle:deltaFrom="25091907" length="993986" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862672" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="j/C5qyz4YERb5vLRctXtaJGAsc4qmoA+czCv4SMK4RHylv6JoQFyQQBZ25YZ3dNEJq0pY3ebsor4LEc86rFgDg=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+1758635134-25091603.delta" sparkle:deltaFrom="25091603" length="1467162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="E5UjENfAk5JYNvj8rStwofw0F+jKtZTNoQXCL3WRHO9dHvLZY//x7IeaSrjDnmLOIs+AWXklgcLwgKXvHmwdBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+1758635134-25091310.delta" sparkle:deltaFrom="25091310" length="2453434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="7E856/TFDuXjI7+Dz6szZZguAOOkS9kMBaf/vdeVSaS1Jmlxo8db74ybbRlarH96ZGlqgjMY2hFzWHOtldheCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.8.15</title>
             <pubDate>Tue, 23 Sep 2025 12:37:28 +0000</pubDate>
             <sparkle:version>1758631008</sparkle:version>
@@ -23,14 +38,6 @@
             <sparkle:shortVersionString>0.8.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+%200.8.14.zip" length="11814115" type="application/octet-stream" sparkle:edSignature="AtzFQ1XNPdYq0y8wfrkAU5Ful3HmPuuk29E7lyJuuPa3ShnWQhIE4S67Kjbt3Y9BPuIIto18yizkxAMrCUGDCw=="/>
-        </item>
-        <item>
-            <title>0.8.13</title>
-            <pubDate>Tue, 23 Sep 2025 12:31:44 +0000</pubDate>
-            <sparkle:version>25091907</sparkle:version>
-            <sparkle:shortVersionString>0.8.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/IINA-Plus/IINA+%200.8.13.zip" length="11817908" type="application/octet-stream" sparkle:edSignature="bf40v102AH9Oel3mqCp9QMrUfL/8blt/nkBhq6N/6XzSr58G8P3I+cQKmlNjcwTy8FUX97+YcOFzckuIWusIDQ=="/>
         </item>
         <item>
             <title>0.8.11</title>
