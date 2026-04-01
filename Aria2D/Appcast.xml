@@ -3,6 +3,20 @@
     <channel>
         <title>Aria2D</title>
         <item>
+            <title>1.4.1</title>
+            <pubDate>Wed, 01 Apr 2026 18:38:59 +0800</pubDate>
+            <sparkle:version>470</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D%201.4.1.zip" length="8111477" type="application/octet-stream" sparkle:edSignature="VDXHQyFwKfKH99pLtCNlY70z/cXpA2CUvrTpI22NqxX9OBprffl8xvbG2sUW2+gTb565nN+VIVkL72JHdbNYBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D470-460.delta" sparkle:deltaFrom="460" length="2011682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862496" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="sIZc6ASFGDNXSYVWptbvaNfLsOmvgeF4P+lORyn4H2jHkEtH5/llFX0k1PcAlqZ8VZpk1asjDAjsA7jIzQn1DQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D470-433.delta" sparkle:deltaFrom="433" length="3709122" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864832" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="gfjPIzT5yDHAob76ZpQTZrhNZavwKcasOkwNLI63QjUPwMDOjHBA/gDlHcxLBLzcjuTxvCXlUNcnYDaukZHvDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D470-425.delta" sparkle:deltaFrom="425" length="3848086" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864752" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="aeLkoEkuGRbMmV2TA9aji8BmlVvhmlRJ9xvLuMzXtvEMp18a2azMfl7Z7m6V4oS3f9EzII4LwmlIG6mLfc26Dw=="/>
+                <enclosure url="https://raw.githubusercontent.com/xjbeta/AppUpdaterAppcasts/master/Aria2D/Aria2D470-417.delta" sparkle:deltaFrom="417" length="4101038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1381360" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ja3q6ecvHVw/E6H7wbYDsgmfPuZbX81URuDTWi4lGxTlgaBXP3DDt8VR4cNLgSyT7kP9Jbkx7RBVr89WsUVQAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4.0</title>
             <pubDate>Thu, 18 Sep 2025 12:28:39 +0800</pubDate>
             <sparkle:version>460</sparkle:version>
